@@ -9,7 +9,6 @@ interests:
   - Quantum Computing
   - Clean Energy
   - Quantum Physics
-  - Chemistry
 social:
   - link: https://github.com/hitarth64
     icon_pack: fab
