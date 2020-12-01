@@ -1,74 +1,45 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Hitarth Choubisa
+role: PhD student
+avatar_filename: website_pic.png
+bio: Research lies at the intersection of machine learning, quantum computing
+  and quantum physics
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Machine Learning
+  - Quantum Computing
+  - Clean Energy
+  - Quantum Physics
+  - Chemistry
+social:
+  - link: https://github.com/hitarth64
+    icon_pack: fab
+    icon: github
+  - link: https://twitter.com/ChoubisaHitarth
+    icon_pack: fab
+    icon: twitter
+  - link: hitarthc64@gmail.com
+    icon_pack: fab
+    icon: mailchimp
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=a3koOrcAAAAJ&hl=en&authuser=1
+organizations:
+  - name: University of Toronto
+    url: https://www.utoronto.ca/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD
+      institution: University of Toronto
+      year: ""
+    - course: Bachelor of Technology
+      institution: Indian Institute of Technology, Bombay
+email: hitarthc64@gmail.com
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
 ---
+I am a 3rd year PhD student with research focused on solving problems in field of clean energy. I develop novel machine learning methods for solving problems in energy capture and light emission. I am also working with quantum computers to accelerate existing quantum chemistry methods to search for efficient stable clean energy storage materials. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Besides my research, I am also interested in education and public outreach activities. I have taught in several machine learning bootcamps, teaching to graduate students, post-doctoral fellows, and industry representatives.
